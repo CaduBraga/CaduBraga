@@ -14,3 +14,24 @@ Sou **estudante no CentroWEG** e afccionado por tecnologia. Atualmente estou foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="SQL"/>
 </p>
+
+## 🚀 Buscando evolução
+
+Estou sempre buscando aprender mais com:
+
+- 🔨 **Projetos práticos**
+- 🌐 **Novas tecnologias**
+- 🤝 **Colaboração com outros desenvolvedores**
+- 📈 **Melhoria contínua**
+
+## 📂 Meus projetos
+
+Aqui você encontrará projetos que desenvolvi durante meus estudos e práticas. Cada repositório é uma nova etapa da minha jornada de aprendizado!
+
+## 📫 Vamos nos conectar?
+
+- 📧 Email: [carlos_e_braga@estudante.sesisenai.org.br](mailto:carlos_e_braga@estudante.sesisenai.org.br)
+- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🌐 Portfólio: [Seu portfólio](https://seu-portfolio.com)
+
+## ✨ Obrigado por visitar meu perfil!
