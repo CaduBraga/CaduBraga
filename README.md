@@ -1,8 +1,20 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Bem-vindo ao meu GitHub" style="width:100%;max-height:180px;object-fit:cover;"/>
+  <img 
+    src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" 
+    alt="Bem-vindo ao meu GitHub" 
+    width="100%" 
+    height="100" 
+    style="object-fit:cover; display:block;"/>
 </p>
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaduBraga&show_icons=true&theme=dark&count_private=true" alt="CaduBraga's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark" alt="Top languages" height="180em"/>
+</p>
 
 ## 🎓 Sobre mim
 
@@ -51,13 +63,6 @@ Estou sempre buscando aprender mais com:
 - 🌐 **Novas tecnologias**
 - 🤝 **Colaboração com outros desenvolvedores**
 - 📈 **Melhoria contínua**
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaduBraga&show_icons=true&theme=dark&count_private=true" alt="CaduBraga's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark" alt="Top languages" height="180em"/>
-</p>
 
 ## 📂 Meus projetos
 
