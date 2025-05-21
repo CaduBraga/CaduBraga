@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaduBraga&show_icons=true&theme=dark&count_private=true" alt="CaduBraga's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark" alt="Top languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
 </p>
 
 ### 🎓 Sobre mim
