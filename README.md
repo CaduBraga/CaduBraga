@@ -1,6 +1,8 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de código sendo digitado" width="600"/>
+</p>
 
-![GIF de terminal com códigos passando](https://media.giphy.com/media/5CVG/giphy.gif)
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 
 ## 🎓 Sobre mim
 
@@ -40,7 +42,7 @@ Estou sempre buscando aprender mais com:
 
 Aqui você encontrará projetos que desenvolvi durante meus estudos e práticas. Cada repositório é uma nova etapa da minha jornada de aprendizado!
 
-## 📫 Vamos nos conectar?
+## 🧭 Onde me achar?
 
 <p align="center">
   <a href="mailto:carlos_e_braga@estudante.sesisenai.org.br" target="_blank">
@@ -49,7 +51,7 @@ Aqui você encontrará projetos que desenvolvi durante meus estudos e práticas.
   <a href="https://www.linkedin.com/in/cadu-braga" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/braga_cadu/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
