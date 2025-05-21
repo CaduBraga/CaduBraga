@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaduBraga&show_icons=true&theme=dark&count_private=true" alt="CaduBraga's GitHub stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark" alt="Top languages" height="180em"/>
 </p>
 
-## 🎓 Sobre mim
+### 🎓 Sobre mim
 
 Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, estou focado no desenvolvimento das minhas habilidades em diversas tecnologias, incluindo:
 
@@ -46,7 +46,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
 </p>
 
-### 🧭 Onde me achar?
+#### 🧭 Onde me achar?
 
 <p align="center">
   <a href="mailto:carlos_e_braga@estudante.sesisenai.org.br" target="_blank">
@@ -60,4 +60,4 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   </a>
 </p>
 
-## ✨ Obrigado por visitar meu perfil!
+## Obrigado por visitar meu perfil!
