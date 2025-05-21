@@ -39,7 +39,6 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
 
   <!-- Ferramentas de design e produtividade -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40px" title="Photoshop"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GIMP_icon.svg" width="40px" title="GIMP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px" title="Illustrator"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40px" title="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
