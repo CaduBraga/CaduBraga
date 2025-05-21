@@ -46,7 +46,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
 </p>
 
-#### 🧭 Onde me achar?
+### 🧭 Onde me achar?
 
 <p align="center">
   <a href="mailto:carlos_e_braga@estudante.sesisenai.org.br" target="_blank">
@@ -60,4 +60,4 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   </a>
 </p>
 
-## Obrigado por visitar meu perfil!
+<h1 align="center">🚀 Obrigado por chegar até aqui!</h1>
