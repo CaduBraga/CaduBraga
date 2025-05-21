@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de código sendo digitado" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de código sendo digitado" width="500"/>
+
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Bem-vindo ao meu GitHub" width="500"/>
 </p>
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
