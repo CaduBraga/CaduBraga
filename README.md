@@ -22,7 +22,6 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" title="MariaDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL Workbench"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftaccess/microsoftaccess-original.svg" width="40px" title="Access"/>
 
   <!-- Versionamento e plataformas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
@@ -42,13 +41,8 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40px" title="Photoshop"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GIMP_icon.svg" width="40px" title="GIMP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px" title="Illustrator"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="40px" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" width="40px" title="Word"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" width="40px" title="PowerPoint"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40px" title="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webdesign/webdesign-original.svg" width="40px" title="Webdesign"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Prezi_Logo.png" width="40px" title="Prezi"/>
 </p>
 
 ## 🚀 Buscando evolução
