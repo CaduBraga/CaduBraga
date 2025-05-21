@@ -46,20 +46,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
 </p>
 
-## 🚀 Buscando evolução
-
-Estou sempre buscando aprender mais com:
-
-- 🔨 **Projetos práticos**
-- 🌐 **Novas tecnologias**
-- 🤝 **Colaboração com outros desenvolvedores**
-- 📈 **Melhoria contínua**
-
-## 📂 Meus projetos
-
-Aqui você encontrará projetos que desenvolvi durante meus estudos e práticas. Cada repositório é uma nova etapa da minha jornada de aprendizado!
-
-## 🧭 Onde me achar?
+### 🧭 Onde me achar?
 
 <p align="center">
   <a href="mailto:carlos_e_braga@estudante.sesisenai.org.br" target="_blank">
