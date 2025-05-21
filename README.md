@@ -38,6 +38,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <!-- Outros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+  <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
 
   <!-- Ferramentas de design e produtividade -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40px" title="Photoshop"/>
