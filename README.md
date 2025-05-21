@@ -3,8 +3,7 @@
     src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" 
     alt="Bem-vindo ao meu GitHub" 
     width="100%" 
-    height="100" 
-    style="object-fit:cover; display:block;"/>
+    style="max-height:20px;object-fit:cover;object-position:center;display:block;"/>
 </p>
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
