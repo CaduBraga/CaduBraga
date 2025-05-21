@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+![GIF de terminal com códigos passando](https://media.giphy.com/media/5CVG/giphy.gif)
 
 ## 🎓 Sobre mim
 
