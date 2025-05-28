@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
 </p>
 
+[![CaduBraga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaduBraga&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
+
 ### 🎓 Sobre mim
 
 Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, estou focado no desenvolvimento das minhas habilidades em diversas tecnologias, incluindo:
@@ -75,7 +77,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
 <a href="https://www.tinkercad.com/" target="_blank">
   <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
 </a>
-<a href="https://education.lego.com/pt-br/products/lego-mindstorms-education-ev3-core-set-/45544" target="_blank">
+<a href="https://education.lego.com/pt-br/downloads/mindstorms-ev3/software/" target="_blank">
   <img src="https://www.lego.com/favicon.ico" width="40px" title="EV3"/>
 </a>
 
