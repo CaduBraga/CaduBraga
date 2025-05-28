@@ -66,15 +66,18 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   </a>
 
   <!-- Outros -->
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
-  </a>
-  <a href="https://www.tinkercad.com/" target="_blank">
-    <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
-  </a>
+ <a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+</a>
+<a href="https://www.tinkercad.com/" target="_blank">
+  <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
+</a>
+<a href="https://education.lego.com/pt-br/products/lego-mindstorms-education-ev3-core-set-/45544" target="_blank">
+  <img src="https://www.lego.com/favicon.ico" width="40px" title="EV3"/>
+</a>
 
   <!-- Ferramentas de design e produtividade -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
