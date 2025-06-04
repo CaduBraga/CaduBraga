@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduBraga&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
 </p>
 
+[![CaduBraga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaduBraga&theme=tokyo-night&hide_border=true&area=true)](https://github.com/CaduBraga/github-readme-activity-graph)
+
 ### 🎓 Sobre mim
 
 Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, estou focado no desenvolvimento das minhas habilidades em diversas tecnologias, incluindo:
