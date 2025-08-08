@@ -36,6 +36,9 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
   </a>
+  <a href="https://kotlinlang.org/" target="_blank" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" title="Kotlin"/>
+  </a>
 
   <!-- Bancos de dados -->
   <a href="https://www.mysql.com/" target="_blank">
@@ -43,6 +46,9 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   </a>
   <a href="https://mariadb.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" title="MariaDB"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" title="Firebase"/>
   </a>
 
   <!-- Versionamento e plataformas -->
@@ -66,22 +72,22 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" title="Eclipse"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" title="IntelliJ IDEA"/>
+  </a>
+
+  <!-- Hardware, dispositivos e simuladores -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+  </a>
+  <a href="https://www.tinkercad.com/" target="_blank">
+    <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
+  </a>
 
   <!-- Outros -->
- <a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" title="Arduino"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
-</a>
-<a href="https://www.tinkercad.com/" target="_blank">
-  <img src="https://www.tinkercad.com/favicon.ico" width="40px" title="Tinkercad"/>
-</a>
-<a href="https://education.lego.com/pt-br/downloads/mindstorms-ev3/software/" target="_blank">
-  <img src="https://www.lego.com/favicon.ico" width="40px" title="EV3"/>
-</a>
-
-  <!-- Ferramentas de design e produtividade -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40px" title="Photoshop"/>
   </a>
