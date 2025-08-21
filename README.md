@@ -47,9 +47,6 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <a href="https://mariadb.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" title="MariaDB"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" title="Firebase"/>
-  </a>
 
   <!-- Versionamento e plataformas -->
   <a href="https://git-scm.com/" target="_blank">
@@ -64,6 +61,9 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   <a href="https://railway.app/" target="_blank">
     <img src="https://railway.app/favicon.ico" width="40px" title="Railway"/>
   </a>
+  <a href="https://www.clever-cloud.com/" target="_blank">
+    <img src="https://www.clever-cloud.com/favicon.ico" width="40px" title="Clever Cloud"/>
+  </a>
 
   <!-- Editores e IDEs -->
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -74,6 +74,14 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" title="IntelliJ IDEA"/>
+  </a>
+
+  <!-- Frameworks e UI -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40px" title="Tailwind CSS"/>
   </a>
 
   <!-- Hardware, dispositivos e simuladores -->
@@ -101,6 +109,7 @@ Sou **estudante no CentroWEG** e **aficionado por tecnologia**. Atualmente, esto
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" title="Figma"/>
   </a>
 </p>
+
 
 ### 🧭 Onde me achar?
 
